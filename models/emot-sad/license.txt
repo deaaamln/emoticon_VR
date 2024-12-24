@@ -1,0 +1,11 @@
+Model Information:
+* title:	emoji sad or weep cartoon
+* source:	https://sketchfab.com/3d-models/emoji-sad-or-weep-cartoon-067f2a13300249909515955f180b3634
+* author:	3dblender_bms (https://sketchfab.com/3dblender_bms)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "emoji sad or weep cartoon" (https://sketchfab.com/3d-models/emoji-sad-or-weep-cartoon-067f2a13300249909515955f180b3634) by 3dblender_bms (https://sketchfab.com/3dblender_bms) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

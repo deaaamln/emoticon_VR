@@ -1,0 +1,11 @@
+Model Information:
+* title:	emoji tired cartoon
+* source:	https://sketchfab.com/3d-models/emoji-tired-cartoon-4ce48c7bb6354a5fa0fbabe311168168
+* author:	3dblender_bms (https://sketchfab.com/3dblender_bms)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "emoji tired cartoon" (https://sketchfab.com/3d-models/emoji-tired-cartoon-4ce48c7bb6354a5fa0fbabe311168168) by 3dblender_bms (https://sketchfab.com/3dblender_bms) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
